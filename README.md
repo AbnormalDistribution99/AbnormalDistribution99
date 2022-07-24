@@ -1,6 +1,6 @@
 <h1 align="center">Hello World 👋, I'm Abhishek Regmi</h1>
 <h3 align="center">Passionate in the field of Machine Learning, Deep Learning and Data Science.</h3>
-<img src = 'https://gfycat.com/ficklehorribleblackfootedferret-three-blue-one-brown-machine-learning'>
+<img src = 'https://miro.medium.com/max/1400/1*bhFifratH9DjKqMBTeQG5A.gif'>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abnormaldistribution99" alt="abnormaldistribution99" /></a> </p>
 
 - 🔭 I’m currently working on **Faulty LED Light Detection Project(Image Classification Problem).**
