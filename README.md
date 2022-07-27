@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **abhishekregmi46@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WOsrCgNLqTNWaEdomIxYB-6CfRaqoHAR/view?usp=sharing](https://drive.google.com/file/d/1WOsrCgNLqTNWaEdomIxYB-6CfRaqoHAR/view?usp=sharing)
+- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1WOsrCgNLqTNWaEdomIxYB-6CfRaqoHAR/view?usp=sharing)
 
 - ⚡ Fun fact **I know it's crazy but I love to spend my day diving deeper into Deep Neural Networks (DNN)**
 
