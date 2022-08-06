@@ -2,7 +2,7 @@
 <h3 align="center">Passionate in the field of Machine Learning, Deep Learning and Data Science.</h3>
 <img src = 'https://miro.medium.com/max/1400/1*bhFifratH9DjKqMBTeQG5A.gif' height= '350px' width='750px'>
 
-- 🔭 I’m currently working on **Faulty LED Light Classification Project(Image Classification Problem).**
+- 🔭 I’m currently working on ** Generative Adversarial Network (GANs) to increase number of image dataset (Similar to Data Augmentation).**
 
 - 🌱 I’m currently learning **PyTorch**
 
